@@ -1,5 +1,3 @@
-```markdown
-
 ## Running LLMs Locally: A Comprehensive Research Paper
 
 ### 1\. Overview
@@ -272,5 +270,3 @@ The landscape of local LLM execution offers a rich array of options. Ollama rema
 *   **Open-source LLMs:** Explore GPT4All models.
 
 This research paper provides a comprehensive overview and practical guide to running LLMs locally.  The included installation instructions and examples should empower users to explore and experiment with different tools.  It is crucial to stay updated with the rapid advancements in this field, as new tools and techniques are constantly emerging.  Remember to consult the documentation and community forums for each tool for the most up-to-date information.
-
-```
